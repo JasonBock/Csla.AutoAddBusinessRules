@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csla.AutoAddBusinessRules", "Csla.AutoAddBusinessRules\Csla.AutoAddBusinessRules.csproj", "{C7BC44B3-9ED8-4BC5-BBAA-5BF3374DC494}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csla.AutoAddBusinessRules.Tests", "Csla.AutoAddBusinessRules.Tests\Csla.AutoAddBusinessRules.Tests.csproj", "{13450203-C42C-4106-B3AB-D6681618A204}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7BC44B3-9ED8-4BC5-BBAA-5BF3374DC494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7BC44B3-9ED8-4BC5-BBAA-5BF3374DC494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7BC44B3-9ED8-4BC5-BBAA-5BF3374DC494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7BC44B3-9ED8-4BC5-BBAA-5BF3374DC494}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13450203-C42C-4106-B3AB-D6681618A204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13450203-C42C-4106-B3AB-D6681618A204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13450203-C42C-4106-B3AB-D6681618A204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13450203-C42C-4106-B3AB-D6681618A204}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
