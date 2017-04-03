@@ -1,5 +1,4 @@
 ﻿using System;
-using Csla;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace Csla.AutoAddBusinessRules.Tests
